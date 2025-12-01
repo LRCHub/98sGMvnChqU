@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Shake it down",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2025-12-01T19:25:37.274908Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shake It Down",
+      "artist": "Thompson Twins",
+      "has_synced": false,
+      "path": "select/01_Shake_It_Down_Thompson_Twins.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Shake It Down",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/02_Shake_It_Down_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Shake it down",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/03_Shake_it_down_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Shake It Down",
+      "artist": "Mud",
+      "has_synced": false,
+      "path": "select/04_Shake_It_Down_Mud.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Shake It Down",
+      "artist": "The Thompson Twins",
+      "has_synced": false,
+      "path": "select/05_Shake_It_Down_The_Thompson_Twins.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ONE OK ROCK - Shake it down",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/06_ONE_OK_ROCK_-_Shake_it_down_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Shake It Down",
+      "artist": "Sam Phillips",
+      "has_synced": false,
+      "path": "select/07_Shake_It_Down_Sam_Phillips.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Shake It Down",
+      "artist": "Jay Dee",
+      "has_synced": true,
+      "path": "select/08_Shake_It_Down_Jay_Dee.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Shake It Down",
+      "artist": "C Turtle",
+      "has_synced": true,
+      "path": "select/09_Shake_It_Down_C_Turtle.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Shake It Down",
+      "artist": "Juyen Sebulba",
+      "has_synced": true,
+      "path": "select/10_Shake_It_Down_Juyen_Sebulba.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Shake it down",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/11_Shake_it_down_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "07 - Shake It Down",
+      "artist": "Thompson Twins",
+      "has_synced": false,
+      "path": "select/12_07_-_Shake_It_Down_Thompson_Twins.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Shake It Down Low",
+      "artist": "P-Square",
+      "has_synced": true,
+      "path": "select/13_Shake_It_Down_Low_P-Square.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Shake it down",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_Shake_it_down_ONE_OK_ROCK.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Shake it down",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_02_Shake_it_down_ONE_OK_ROCK.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "shake it down",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_03_shake_it_down_ONE_OK_ROCK.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Shake it down",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_04_Shake_it_down_ONE_OK_ROCK.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Shake It Down",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_05_Shake_It_Down_ONE_OK_ROCK.txt"
+    }
+  ]
+}
