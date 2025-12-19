@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Shake it down",
   "base_artist": "ONE OK ROCK",
-  "createdAt": "2025-12-01T19:25:37.274908Z",
+  "createdAt": "2025-12-19T14:34:16.111848Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -115,38 +115,6 @@
       "artist": "ONE OK ROCK",
       "has_synced": false,
       "path": "select/pl_01_Shake_it_down_ONE_OK_ROCK.txt"
-    },
-    {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
-      "title": "Shake it down",
-      "artist": "ONE OK ROCK",
-      "has_synced": false,
-      "path": "select/pl_02_Shake_it_down_ONE_OK_ROCK.txt"
-    },
-    {
-      "id": "petitlyrics_3",
-      "source": "petitlyrics",
-      "title": "shake it down",
-      "artist": "ONE OK ROCK",
-      "has_synced": false,
-      "path": "select/pl_03_shake_it_down_ONE_OK_ROCK.txt"
-    },
-    {
-      "id": "petitlyrics_4",
-      "source": "petitlyrics",
-      "title": "Shake it down",
-      "artist": "ONE OK ROCK",
-      "has_synced": false,
-      "path": "select/pl_04_Shake_it_down_ONE_OK_ROCK.txt"
-    },
-    {
-      "id": "petitlyrics_5",
-      "source": "petitlyrics",
-      "title": "Shake It Down",
-      "artist": "ONE OK ROCK",
-      "has_synced": false,
-      "path": "select/pl_05_Shake_It_Down_ONE_OK_ROCK.txt"
     }
   ]
 }
